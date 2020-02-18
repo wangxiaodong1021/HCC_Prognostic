@@ -1,0 +1,17 @@
+{
+ "model": "resnet18",
+ "use_crf": true,
+ "train_batch_size": 36,
+ "test_batch_size": 48,
+  "wsi_test_batch_size": 16,
+ "image_size": 768,
+ "patch_size": 256,
+ "crop_size": 224,
+ "lr": 0.0001,
+ "momentum": 0.9,
+ "data_path_40": "./data/patch_cls/",
+ "json_path_train": "./data/json/",
+ "json_path_valid": "./data/json/",
+ "epoch": 20,
+ "log_every": 100
+}
