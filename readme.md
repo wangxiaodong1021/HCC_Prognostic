@@ -1,5 +1,5 @@
 # Prerequisites:
-`
+```
 Python 3.7
 
 Numpy 1.17.2
@@ -25,7 +25,7 @@ tensorboardX 1.7
 pandas 0.25.3
 
 lifelines 0.23.4
-`
+```
 
 # Data Preparation:
 Use gdc_manifest.2020-01-03.txt to download WSI from TCGA dataset.
