@@ -1,5 +1,5 @@
 
-## Exploring prognostic indicators in the pathological images of hepatocellular carcinoma based on deep learning
+# Exploring prognostic indicators in the pathological images of hepatocellular carcinoma based on deep learning
 [Link to paper](https://gut.bmj.com/content/early/2020/09/29/gutjnl-2020-320930)
 
 PyTorch implementation of "Exploring prognostic indicators in the pathological images of hepatocellular carcinoma based on deep learning".
